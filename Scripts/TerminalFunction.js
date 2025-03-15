@@ -159,7 +159,7 @@ const FileSystem = {
             "gpt-based_spam_detection_model.lnk": {type: "link", content: "https://github.com/rudxkush/gpt2-spam-classifier"},
             "bothways.lnk": {type: "link", content: "https://github.com/rudxkush/Bothways-LL"},
             "round_robin.lnk": {type: "link", content: "https://github.com/rudxkush/RoundRobin"},
-            "personal_website.lnk": {type: "link", content: "https://github.com/rudxkush/RudraKushwah-Portfolio"},
+            "personal_website.lnk": {type: "link", content: "https://github.com/rudxkush/personal-website"},
             "circular_queue_array.lnk": {type: "link", content: "https://github.com/rudxkush/circular-queue-array"},
             "multi-element_sum_finder.lnk": {type: "link", content: "https://github.com/rudxkush/multi-element-sum-finder"},
         }},
